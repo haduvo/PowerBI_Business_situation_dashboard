@@ -1,6 +1,7 @@
 # PowerBI_Business_situation_dashboard
 Please see the Power BI files attached above
-## Using Power BI to calculate metrics and visualized dashboard with different charts to tell stories about business situations, find out insightful facts, and propose methods to solve problems
+## Using Power BI to calculate metrics and visualize dashboard with different charts to tell stories about business situations, find out insightful facts, and propose methods to solve problems
+The data was processed before importing into Power BI
 
 <img width="604" alt="Overview" src="https://github.com/haduvo/PowerBI_Business_situation_dashboard/assets/127097343/d8ee2b00-42d7-4085-b53b-50375050812f">
 
